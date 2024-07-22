@@ -6,3 +6,6 @@ java
 c
 c++
 web developnment
+html
+aws devops
+
